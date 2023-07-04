@@ -8,14 +8,6 @@ const navbar= document.querySelector(".navbar");
 
 
 
-
-
-
-
-
-
-
-
 const searchBtn = document.querySelector("#search-btn");
 const cartBtn = document.querySelector("#cart-btn");
 
